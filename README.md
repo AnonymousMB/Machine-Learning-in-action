@@ -10,4 +10,4 @@ Instruction source:
 
 ## Introduction
 
-This respiratory is used to save my algorithms and models when I'm learning machine-learning.Therefore,most of the scripts are not perfectly completed which is limited by my knowledge.However,I would still be honour if they can help you.
+This respiratory is used to save my algorithms and models when I'm learning machine-learning.Therefore,most of the scripts are not perfectly completed which is limited by my knowledge.However,I would still be glad if they can help you.
